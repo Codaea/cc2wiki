@@ -1,0 +1,155 @@
+{
+  "main": {
+    "id": "ab29b1f48802e793",
+    "type": "split",
+    "children": [
+      {
+        "id": "20f0c18a7ea31b40",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "fd3ebc8200334a05",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "1139d2607408609b",
+    "type": "split",
+    "children": [
+      {
+        "id": "9c64a169d2bd667d",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "22a281998e52b683",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "5dd2d6919372333d",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "eebb33726a19746e",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "0295acb75d749104",
+    "type": "split",
+    "children": [
+      {
+        "id": "7fb57eb646dd73c9",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "4beb4bea72e7283e",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "4d28dc135c5d7187",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "501b2e6fe1a8e25f",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "efc798f4c8a8a78a",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false
+    }
+  },
+  "active": "fd3ebc8200334a05",
+  "lastOpenFiles": [
+    "Mod Reference Lua Global vars.md",
+    "index.md",
+    "Mod Reference/Mod Reference Units.md",
+    "Lua Script Debugging.md",
+    "Mod Reference/Mod Reference.md",
+    "Save Editing.md",
+    "General Mod Advice.md",
+    "Mod Reference/Mod Reference Special Items.md",
+    "Mod Reference/Mod Reference Lua Functions.md",
+    "Mod Reference/Mod Reference Attachments.md",
+    "Mod Reference"
+  ]
+}
