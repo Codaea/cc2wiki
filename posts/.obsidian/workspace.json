@@ -11,8 +11,12 @@
             "id": "b327bbf9983b96fa",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "index.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ]
@@ -81,6 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "index.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -97,6 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "index.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -118,7 +124,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "index.md"
+              }
             }
           }
         ]
@@ -140,16 +148,16 @@
   },
   "active": "b327bbf9983b96fa",
   "lastOpenFiles": [
-    "Mod Reference Lua Global vars.md",
-    "index.md",
-    "Mod Reference/Mod Reference Units.md",
-    "Lua Script Debugging.md",
-    "Mod Reference/Mod Reference.md",
-    "Save Editing.md",
     "General Mod Advice.md",
-    "Mod Reference/Mod Reference Special Items.md",
+    "Mod Reference Lua Global vars.md",
+    "Save Editing.md",
+    "Lua Script Debugging.md",
     "Mod Reference/Mod Reference Lua Functions.md",
+    "Mod Reference/Mod Reference.md",
     "Mod Reference/Mod Reference Attachments.md",
+    "Mod Reference/Mod Reference Units.md",
+    "Mod Reference/Mod Reference Special Items.md",
+    "index.md",
     "Mod Reference"
   ]
 }
